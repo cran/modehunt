@@ -1,10 +1,10 @@
 Package: modehunt
 Type: Package
 Title: Multiscale Analysis for Density Functions
-Version: 1.0
-Date: 2007-05-24
-Author: Kaspar Rufibach <kaspar.rufibach@stanford.edu> and Guenther Walther <gwalther@stanford.edu>
-Maintainer: Kaspar Rufibach <kaspar.rufibach@stanford.edu>
+Version: 1.0.1
+Date: 2007-10-04
+Author: Kaspar Rufibach <kaspar.rufibach@freesurf.ch> and Guenther Walther <gwalther@stanford.edu>
+Maintainer: Kaspar Rufibach <kaspar.rufibach@freesurf.ch>
 Description: Given independent and identically distributed observations X(1), ..., X(n) from a density f,
  this package provides five methods to perform a multiscale analysis about f as well as the necessary critical
  values. The first method, introduced in Duembgen and Walther (2006), provides simultaneous confidence statements
@@ -17,4 +17,4 @@ Description: Given independent and identically distributed observations X(1), ..
  equivalent to the first and was introduced in Rufibach and Walther (2007).
 License: GPL version 2 or newer
 URL: www.stanford.edu/~kasparr, www-stat.stanford.edu/~gwalther
-Packaged: Thu May 24 18:44:37 2007; rufibach
+Packaged: Mon Oct  8 16:16:47 2007; rufibach

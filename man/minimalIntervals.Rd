@@ -4,6 +4,8 @@
 
 \title{Compute set of minimal intervals}
 
+\encoding{latin1}
+
 \description{In general, all intervals that have a test statistic bigger than the respective critical value
 are output. For a given set of intervals \eqn{\mathcal{K}}, all intervals \eqn{J} such that \eqn{\mathcal{K}} 
 does not contain a proper subset of \eqn{J} are called {\it{minimal}}. Given \eqn{\mathcal{K}}, this function 
@@ -30,7 +32,7 @@ Preprint, Department of Statistics, Stanford University.
 }
 
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@stanford.edu}, \cr \url{http://www.stanford.edu/~kasparr} 
+Kaspar Rufibach, \email{kaspar.rufibach@freesurf.ch}, \cr \url{http://www.stanford.edu/~kasparr} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
 

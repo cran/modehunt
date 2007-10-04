@@ -12,10 +12,10 @@ statements for the existence and location of local increases and decreases of a 
 
 \details{
 \tabular{ll}{
-Package: \tab test \cr
+Package: \tab modehunt \cr
 Type: \tab Package \cr
-Version: \tab 1.0 \cr
-Date: \tab 2007-05-24 \cr
+Version: \tab 1.0.1 \cr
+Date: \tab 2007-10-04 \cr
 License: \tab GPL version 2 or newer \cr
 }
 
@@ -44,7 +44,7 @@ a (finite--sample) tradeoff between employing or omitting the additive correctio
 }
 
 \author{
-Kaspar Rufibach (maintainer), \email{kaspar.rufibach@stanford.edu}, \cr \url{http://www.stanford.edu/~kasparr} 
+Kaspar Rufibach (maintainer), \email{kaspar.rufibach@freesurf.ch}, \cr \url{http://www.stanford.edu/~kasparr} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
 
@@ -87,7 +87,7 @@ mod2 <- modeHuntingApprox(X.raw, lower = 0, upper = 1,
                           crit.vals = cv.approx, min.int = TRUE)
 
 ## block procedure from Rufibach and Walther (2007)
-mod3 <- modeHuntingBlock(X.raw, lower = -Inf, upper = Inf, 
+mod3 <- modeHuntingBlock(X.raw, lower = 0, upper = 1, 
                          crit.vals = cv.block, min.int = TRUE)
 
 ## display

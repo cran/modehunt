@@ -16,7 +16,7 @@ is supplemented by \eqn{lower} and/or \eqn{upper} and finally sorted.}
 \value{Sorted vector of (processed) observations.}
 
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@stanford.edu}, \cr \url{http://www.stanford.edu/~kasparr} 
+Kaspar Rufibach, \email{kaspar.rufibach@freesurf.ch}, \cr \url{http://www.stanford.edu/~kasparr} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
 
