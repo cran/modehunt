@@ -16,14 +16,14 @@ is supplemented by \eqn{lower} and/or \eqn{upper} and finally sorted.}
 \value{Sorted vector of (processed) observations.}
 
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@freesurf.ch}, \cr \url{http://www.stanford.edu/~kasparr} 
+Kaspar Rufibach, \email{kaspar.rufibach@gmail.com} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
 
 \note{This function is called by \code{\link{modeHunting}}, \code{\link{modeHuntingApprox}}, 
       and \code{\link{modeHuntingBlock}}.
       
-      This function was derived from MatLab code provided on Lutz Duembgen's webpage, \cr \url{http://www.imsv.unibe.ch/~duembgen/}.   
+      This function was derived from MatLab code provided on Lutz Duembgen's webpage, \cr \url{http://www.staff.unibe.ch/duembgen}.   
 }
 
 \keyword{htest}

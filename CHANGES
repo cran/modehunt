@@ -1,3 +1,7 @@
+modehunt_1.0.2:
+---------------------------------
+- Changed "F" to "FALSE" in criticalValuesAll and criticalValuesApprox
+
 modehunt_1.0.1:
 ---------------------------------
 - Corrected some minor typos.

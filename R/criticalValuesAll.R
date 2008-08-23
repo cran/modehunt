@@ -23,8 +23,8 @@ function (n, alpha = 0.05, M = 10^5, display = 0, path = NA)
             name <- paste(path, "critvals_all_alpha=", alpha, 
                 "_n=", n, ".txt", sep = "")
             if (is.na(path) == 0) {
-                write.table(sim, file = name, row.names = F, 
-                  col.names = F)
+                write.table(sim, file = name, row.names = FALSE, 
+                  col.names = FALSE)
             }
         }
     }

@@ -42,8 +42,8 @@ function (n, d0 = 2, m0 = 10, fm = 2, alpha = 0.05, gam = 2,
             name <- paste(path, "critvals_approx_alpha=", alpha, 
                 "_n=", n, ".txt", sep = "")
             if (is.na(path) == 0) {
-                write.table(sim, file = name, row.names = F, 
-                  col.names = F)
+                write.table(sim, file = name, row.names = FALSE, 
+                  col.names = FALSE)
             }
         }
     }

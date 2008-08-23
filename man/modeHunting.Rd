@@ -66,9 +66,9 @@ of increases and decreases of \eqn{f} as precisely as possible, the intervals in
 }
 
 \references{
-Duembgen, L. and Walther, G. (2006).
+Duembgen, L. and Walther, G. (2008).
 Multiscale Inference about a density.
-To appear in \emph{Annals of Statistics.}
+\emph{Ann. Statist.}, \bold{36}, 1758--1785.
 
 Rufibach, K. and Walther, G. (2007).
 A general criterion for multiscale inference. 
@@ -76,7 +76,7 @@ Preprint, Department of Statistics, Stanford University.
 }
 
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@freesurf.ch}, \cr \url{http://www.stanford.edu/~kasparr} 
+Kaspar Rufibach, \email{kaspar.rufibach@gmail.com} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
 }
@@ -86,7 +86,7 @@ data set \code{\link{cvModeAll}}. Critical values for other values of \eqn{n} an
 using \code{\link{criticalValuesAll}}.
 
 Parts of this function were derived from MatLab code provided on Lutz Duembgen's webpage, \cr
-\url{http://www.imsv.unibe.ch/~duembgen/}.}
+\url{http://www.staff.unibe.ch/duembgen}.}
 %
 \seealso{\code{\link{modeHuntingApprox}}, \code{\link{modeHuntingBlock}}, and \code{\link{cvModeAll}}.}
 \examples{
