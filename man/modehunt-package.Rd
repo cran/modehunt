@@ -14,8 +14,8 @@ statements for the existence and location of local increases and decreases of a 
 \tabular{ll}{
 Package: \tab modehunt \cr
 Type: \tab Package \cr
-Version: \tab 1.0.2 \cr
-Date: \tab 2008-23-08 \cr
+Version: \tab 1.0.3 \cr
+Date: \tab 2008-25-08 \cr
 License: \tab GPL version 2 or newer \cr
 }
 
