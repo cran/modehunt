@@ -14,9 +14,9 @@ statements for the existence and location of local increases and decreases of a 
 \tabular{ll}{
 Package: \tab modehunt \cr
 Type: \tab Package \cr
-Version: \tab 1.0.3 \cr
-Date: \tab 2008-25-08 \cr
-License: \tab GPL version 2 or newer \cr
+Version: \tab 1.0.4 \cr
+Date: \tab 2009-03-04 \cr
+License: \tab GPL (>= 2) \cr
 }
 
 In Duembgen and Walther (2008) a multiscale test statistic based on spacings was introduced. This method provides 
@@ -36,7 +36,7 @@ of Duembgen and Walther (2008) approximates the set \eqn{\mathcal{I}_{all}} by a
 \eqn{\mathcal{I}_{app}} yields a procedure that is in terms of power asymptotically equivalent to that based 
 on \eqn{\mathcal{I}_{all}}, however, computationally much more efficient.
 
-Finally, Rufibach and Walther (2007) propose a {\it block procedure}. Here, all intervals under consideration are
+Finally, Rufibach and Walther (2007) propose a \emph{block procedure}. Here, all intervals under consideration are
 grouped into blocks, where each interval in a block contains approximately the same number of original observations.
 Critical values are then computed per block. Again, this procedure is basically asymptotically equivalent to the
 standard approach proposed in Duembgen and Walther (2008), but again computationally much faster. It further offers

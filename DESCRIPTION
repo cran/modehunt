@@ -1,8 +1,8 @@
 Package: modehunt
 Type: Package
 Title: Multiscale Analysis for Density Functions
-Version: 1.0.3
-Date: 2008-25-08
+Version: 1.0.4
+Date: 2009-03-04
 Author: Kaspar Rufibach <kaspar.rufibach@gmail.com> and Guenther Walther <gwalther@stanford.edu>
 Maintainer: Kaspar Rufibach <kaspar.rufibach@gmail.com>
 Description: Given independent and identically distributed observations X(1), ..., X(n) from a density f,
@@ -15,6 +15,6 @@ Description: Given independent and identically distributed observations X(1), ..
  less powerful on large scales, however, not asymptotically minimax optimal anymore. Finally, the block procedure is a
  compromise between adding Gamma or not, having intermediate power properties. The latter is again asymptotically
  equivalent to the first and was introduced in Rufibach and Walther (2007).
-License: GPL version 2 or newer
-URL: www-stat.stanford.edu/~gwalther
-Packaged: Mon Aug 25 11:54:20 2008; rufibach
+License: GPL (>= 2)
+URL: http://www-stat.stanford.edu/~gwalther
+Packaged: Wed Mar  4 12:01:11 2009; rufibach

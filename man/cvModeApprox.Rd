@@ -24,7 +24,7 @@ the approximating set of intervals, with or without additive correction term \eq
 where \eqn{U_i} is a uniformly on \eqn{[0,1]} distributed random variable, \eqn{i=1,\dots,M}.
 }
 
-\section{Remember}{\eqn{n} is the number of {\it{interior observations}}, i.e. if you are analyzing a sample of size
+\section{Remember}{\eqn{n} is the number of \emph{interior observations}, i.e. if you are analyzing a sample of size
 \eqn{m}, then you need critical values corresponding to
 
   \tabular{ll}{

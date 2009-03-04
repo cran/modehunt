@@ -1,6 +1,11 @@
+modehunt_1.0.4 (March 4, 2009)
+---------------------------------
+- Corrected web address of GW in package description.
+- Changed MAN files not to generate any warnings in CRAN testing.
+
 modehunt_1.0.3 (Aug 25, 2008)
 ---------------------------------
-- Changed "F" to 0 in criticalValuesAll and criticalValuesApprox.
+- Re-submitted same version.
 
 modehunt_1.0.2 (Aug 23, 2008)
 ---------------------------------
@@ -10,4 +15,4 @@ modehunt_1.0.2 (Aug 23, 2008)
 modehunt_1.0.1
 ---------------------------------
 - Corrected some minor typos.
-- Update contact informations.
+- Updated contact informations.

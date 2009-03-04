@@ -51,8 +51,8 @@ the standard deviation \eqn{\sigma_{jk} :=  \sqrt{(k-j-1)/3}} and the additive c
 \eqn{\Gamma(\delta) := \sqrt{2 \log(e / \delta)}} for \eqn{\delta > 0}.
 
 If \code{min.int = TRUE}, the set \eqn{\mathcal{D}^\pm(\alpha)} is replaced by the set \eqn{{\bf{D}}^\pm(\alpha)}
-of its {\it{minimal elements}}. An interval \eqn{J \in \mathcal{D}^\pm(\alpha)} is called {\it{minimal}} if 
-\eqn{\mathcal{D}^\pm(\alpha)} contains no proper subset of \eqn{J}. This {\it{minimization}} post-processing 
+of its \emph{minimal elements}. An interval \eqn{J \in \mathcal{D}^\pm(\alpha)} is called \emph{minimal} if 
+\eqn{\mathcal{D}^\pm(\alpha)} contains no proper subset of \eqn{J}. This \emph{minimization} post-processing 
 step typically massively reduces the number of intervals. If we are mainly interested in locating the ranges
 of increases and decreases of \eqn{f} as precisely as possible, the intervals in 
 \eqn{\mathcal{D}^\pm(\alpha) \setminus \bf{D}^\pm(\alpha)} do not contain relevant information.
