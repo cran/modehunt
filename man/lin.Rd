@@ -37,7 +37,7 @@ rlin(n, a, b, s)}
      
      \deqn{F_{a, b, s}^{-1}(p) = \Bigl(-s^{-1}+\frac{a+b}{2}+\frac{s \sqrt{(a-b)^2+\frac{4}{s}(\frac{1}{s}-(a+b)+2p)}}{2|s|}  \Bigr) \ 1\{p \in [a,b)\} + p\{[0,a) \cup [b,1]\}.}
      
-     This function was used to carry out the simulations to compute the power curves given in Rufibach and Walther (2007).
+     This function was used to carry out the simulations to compute the power curves given in Rufibach and Walther (2010).
 }
 \value{
      \code{\link{dlin}} gives the values of the density function, \code{\link{plin}} those of the distribution
@@ -45,12 +45,12 @@ rlin(n, a, b, s)}
      respectively. \code{\link{rlin}} generates \eqn{n} random numbers, returned as an ordered vector.
 }
 \references{
-Rufibach, K. and Walther, G. (2007).
+Rufibach, K. and Walther, G. (2010).
 A general criterion for multiscale inference. 
-Preprint, Department of Statistics, Stanford University.
+\emph{J. Comput. Graph. Statist.}, \bold{19}, 175--190.
 }
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@gmail.com} 
+Kaspar Rufibach, \email{kaspar.rufibach@ifspm.uzh.ch}, \cr \url{http://www.biostat.uzh.ch/aboutus/people/rufibach.html} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
 

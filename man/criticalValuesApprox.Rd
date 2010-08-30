@@ -37,18 +37,18 @@ density with the functions \code{\link{modeHuntingApprox}} and \code{\link{modeH
 }
 
 \references{
-Rufibach, K. and Walther, G. (2007).
+Rufibach, K. and Walther, G. (2010).
 A general criterion for multiscale inference. 
-Preprint, Department of Statistics, Stanford University.
+\emph{J. Comput. Graph. Statist.}, \bold{19}, 175--190.
 }
 
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@gmail.com} 
+Kaspar Rufibach, \email{kaspar.rufibach@ifspm.uzh.ch}, \cr \url{http://www.biostat.uzh.ch/aboutus/people/rufibach.html} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
 }
 
-\note{The asymptotic results in Rufibach and Walther (2007) are only derived for \eqn{f_m = 2}.}
+\note{The asymptotic results in Rufibach and Walther (2010) are only derived for \eqn{f_m = 2}.}
 
 \seealso{The resulting critical values are used by the functions \code{\link{modeHuntingApprox}} 
          and \cr \code{\link{modeHuntingBlock}}. Critical values

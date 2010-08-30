@@ -4,7 +4,7 @@
 
 \title{Computes number of observations for each block}
 
-\description{In Rufibach and Walther (2007) a new multiscale mode hunting procedure is presented
+\description{In Rufibach and Walther (2010) a new multiscale mode hunting procedure is presented
 that compares the local test statistics with critical values given by blocks. Blocks are collection
 of intervals on a given grid that contain roughly the same number of original observations.
 }
@@ -47,18 +47,18 @@ Include \eqn{(j,k)} in \eqn{\mathcal{I}_{app}} if
   }
   
 \references{
-Rufibach, K. and Walther, G. (2007).
+Rufibach, K. and Walther, G. (2010).
 A general criterion for multiscale inference. 
-Preprint, Department of Statistics, Stanford University.
+\emph{J. Comput. Graph. Statist.}, \bold{19}, 175--190.
 }
 
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@gmail.com} 
+Kaspar Rufibach, \email{kaspar.rufibach@ifspm.uzh.ch}, \cr \url{http://www.biostat.uzh.ch/aboutus/people/rufibach.html} 
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
 }
 
-\note{The asymptotic results in Rufibach and Walther (2007) are only derived for \eqn{f_m = 2}.}
+\note{The asymptotic results in Rufibach and Walther (2010) are only derived for \eqn{f_m = 2}.}
 
 \seealso{This function is called by \code{\link{modeHuntingBlock}}.}
 

@@ -40,9 +40,9 @@ where \eqn{[a,b] = \{x \ : \ f(x) > 0\}} is the support of \eqn{f}.
         for other combinations for \eqn{\alpha} and \eqn{n} can be computed using this latter function.}
 
 \references{
-Rufibach, K. and Walther, G. (2007).
+Rufibach, K. and Walther, G. (2010).
 A general criterion for multiscale inference. 
-Preprint, Department of Statistics, Stanford University.
+\emph{J. Comput. Graph. Statist.}, \bold{19}, 175--190.
 }
 
 \examples{
