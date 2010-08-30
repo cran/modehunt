@@ -9,7 +9,7 @@ the more intuitive rounding meaning that a 5 is always rounded to the next highe
 \value{The biggest integer not bigger than \eqn{d} if \eqn{d - \lfloor d \rfloor < 0.5} and the smallest integer greater than
 \eqn{d} if \eqn{d - \lfloor d \rfloor \ge 0.5}.}
 \author{
-Kaspar Rufibach, \email{kaspar.rufibach@ifspm.uzh.ch}, \cr \url{http://www.biostat.uzh.ch/aboutus/people/rufibach.html}
+Kaspar Rufibach, \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch}
 
 Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
 

@@ -1,0 +1,14 @@
+## which functions shall be accessible by the users?
+export(blocks,
+criticalValuesAll,
+criticalValuesApprox,
+dlin,
+minimalIntervals,
+modeHunting,
+modeHuntingApprox,
+modeHuntingBlock,
+myRound,
+plin,
+preProcessX,
+qlin,
+rlin)
