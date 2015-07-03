@@ -4,9 +4,9 @@
 \alias{mode hunting}
 \alias{multiscale}
 \docType{package}
-\title{Multiscale analysis about a density}
+\title{Multiscale Analysis for Density Functions}
 
-\description{This package provides five methods and corresponding critical values to perform mode hunting, i.e. to 
+\description{Provides five methods and corresponding critical values to perform mode hunting, i.e. to 
 compute multiscale test statistics based on local order statistics and spacings that provide simultaneous confidence 
 statements for the existence and location of local increases and decreases of a density.}
 
@@ -14,8 +14,8 @@ statements for the existence and location of local increases and decreases of a 
 \tabular{ll}{
 Package: \tab modehunt \cr
 Type: \tab Package \cr
-Version: \tab 1.0.6 \cr
-Date: \tab 2011-11-29 \cr
+Version: \tab 1.0.7 \cr
+Date: \tab 2015-07-03 \cr
 License: \tab GPL (>=2) \cr
 }
 

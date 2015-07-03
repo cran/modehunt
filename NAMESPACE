@@ -12,3 +12,6 @@ plin,
 preProcessX,
 qlin,
 rlin)
+
+importFrom(stats, rnorm, runif)
+importFrom(utils, write.table)

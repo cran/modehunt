@@ -1,5 +1,5 @@
-16f46c0c3d4ecefd9e7415f6bceb75a3 *DESCRIPTION
-4e314ccaab2040ceb1dff4ddb8cd3ae0 *NAMESPACE
+964bc1647def8c582aa563b92d2b274a *DESCRIPTION
+51f67563fc94fce20775c6c7b00c02b1 *NAMESPACE
 2bf60e827c38dcc7bc948852702bd8e3 *NEWS
 827f0f277c2194fe66f1b3c3fea855ae *R/blocks.r
 74ed93bef8c4e2bafd7cd97138f1a270 *R/criticalValuesAll.r
@@ -14,9 +14,9 @@ eee7164357b21a9d35abe5b0e1f740fc *R/modeHuntingApprox.r
 a84aed76c8a742ff422d5bca6bdb2fc2 *R/preProcessX.r
 5eaa5fe527a5c1f8ece577d6af9d5ac9 *R/qlin.r
 fa3b531c9e3418d6723696afc92b30dd *R/rlin.r
-e15dd5ac9453868d89cc25d10deb8535 *data/cvModeAll.rda
-22d368d28f5c0ed5acb320438f037f43 *data/cvModeApprox.rda
-79c34cd4eb98ee3bdd8f48ad3399c8c7 *data/cvModeBlock.rda
+ca67f433e08a5cfc2b55bb6a7e841533 *data/cvModeAll.rda
+165da973af25aebe0f0c05f7f5c05950 *data/cvModeApprox.rda
+70307175928fdae795f10b3d5f8a6e64 *data/cvModeBlock.rda
 04d6fb158429c14bd566f59723281b48 *man/blocks.Rd
 1e5926a305e7fd65677099e2898962e7 *man/criticalValuesAll.Rd
 2fe7505895ae74be844ae92aafb1803f *man/criticalValuesApprox.Rd
@@ -28,6 +28,6 @@ df471c0a28a1522ba208b04a5f5b384d *man/cvModeApprox.Rd
 7be299fc2760030ffdc0f72595cab691 *man/modeHunting.Rd
 da51665ae2a3b74042d6b52cabc6f80f *man/modeHuntingApprox.Rd
 8d2f538180f2a6015ea003bc1cc1682b *man/modeHuntingBlock.Rd
-27b6b1d32e7894cbc7ac70e096ef91ab *man/modehunt-package.Rd
+50938de5f0bac06df44274ccd09e2f36 *man/modehunt-package.Rd
 9b74bcbcd22f50107f9f0ce2b52817bf *man/myRound.Rd
 26f237be63238bdd25829deede024a8d *man/preProcessX.Rd
