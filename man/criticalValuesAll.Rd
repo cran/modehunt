@@ -32,7 +32,7 @@ A general criterion for multiscale inference.
 \author{
 Kaspar Rufibach, \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch} 
 
-Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
+Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{https://gwalther.su.domains/}
 }
 
 \seealso{The resulting critical values can be used by the function \code{\link{modeHunting}}. Critical values

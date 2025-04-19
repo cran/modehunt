@@ -34,7 +34,7 @@ A general criterion for multiscale inference.
 \author{
 Kaspar Rufibach, \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch} 
 
-Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
+Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{https://gwalther.su.domains/}}
 
 \note{Depending on the value of \eqn{min.int}, this function is called by \code{\link{modeHunting}}, \cr 
       \code{\link{modeHuntingApprox}}, and \code{\link{modeHuntingBlock}}.}

@@ -11,7 +11,7 @@ the more intuitive rounding meaning that a 5 is always rounded to the next highe
 \author{
 Kaspar Rufibach, \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch}
 
-Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
+Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{https://gwalther.su.domains/}}
 
 \seealso{The built-in \R function \code{\link{round}}.}
 \examples{

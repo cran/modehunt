@@ -78,15 +78,14 @@ A general criterion for multiscale inference.
 \author{
 Kaspar Rufibach, \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch} 
 
-Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
+Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{https://gwalther.su.domains/}
 }
 
 \note{Critical values for \code{\link{modeHunting}} and some combinations of \eqn{n} and \eqn{\alpha} are provided in the 
 data set \code{\link{cvModeAll}}. Critical values for other values of \eqn{n} and \eqn{\alpha} can be generated 
 using \code{\link{criticalValuesAll}}.
 
-Parts of this function were derived from MatLab code provided on Lutz Duembgen's webpage, \cr
-\url{http://www.staff.unibe.ch/duembgen}.}
+Parts of this function were derived from MatLab code provided by Lutz Duembgen.}
 %
 \seealso{\code{\link{modeHuntingApprox}}, \code{\link{modeHuntingBlock}}, and \code{\link{cvModeAll}}.}
 \examples{

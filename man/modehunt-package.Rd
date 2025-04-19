@@ -14,8 +14,8 @@ statements for the existence and location of local increases and decreases of a 
 \tabular{ll}{
 Package: \tab modehunt \cr
 Type: \tab Package \cr
-Version: \tab 1.0.7 \cr
-Date: \tab 2015-07-03 \cr
+Version: \tab 1.0.8 \cr
+Date: \tab 2025-04-19 \cr
 License: \tab GPL (>=2) \cr
 }
 
@@ -57,7 +57,7 @@ and for the block method as \code{\link{modeHuntingBlock}}, \code{\link{critical
 \author{
 Kaspar Rufibach (maintainer), \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch}
 
-Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}
+Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{https://gwalther.su.domains/}
 
 Kaspar Rufibach acknowledges support by the Swiss National Science Foundation SNF, \url{http://www.snf.ch}.
 

@@ -1,9 +1,11 @@
 Package: modehunt
 Type: Package
 Title: Multiscale Analysis for Density Functions
-Version: 1.0.7
-Date: 2015-07-03
-Author: Kaspar Rufibach <kaspar.rufibach@gmail.com> and Guenther Walther <gwalther@stanford.edu>
+Version: 1.0.8
+Date: 2025-04-19
+Authors@R: 
+    c(person(given = "Kaspar", family = "Rufibach", role = c("aut", "cre"), email = "kaspar.rufibach@gmail.com"),
+    person(given = "Guenther", family = "Walther", role = "aut"))
 Maintainer: Kaspar Rufibach <kaspar.rufibach@gmail.com>
 Imports: stats, utils
 Description: Given independent and identically distributed observations X(1), ..., X(n) from a density f,
@@ -17,9 +19,10 @@ Description: Given independent and identically distributed observations X(1), ..
  compromise between adding Gamma or not, having intermediate power properties. The latter is again asymptotically
  equivalent to the first and was introduced in Rufibach and Walther (2010).
 License: GPL (>= 2)
-URL: http://www.kasparrufibach.ch,
-        http://www-stat.stanford.edu/~gwalther
-Packaged: 2015-07-03 05:35:44 UTC; rufibach
+URL: http://www.kasparrufibach.ch, https://gwalther.su.domains/
 NeedsCompilation: no
+Packaged: 2025-04-19 19:08:30 UTC; kaspa
+Author: Kaspar Rufibach [aut, cre],
+  Guenther Walther [aut]
 Repository: CRAN
-Date/Publication: 2015-07-03 08:47:50
+Date/Publication: 2025-04-19 19:22:01 UTC

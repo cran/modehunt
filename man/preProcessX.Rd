@@ -18,12 +18,12 @@ is supplemented by \eqn{lower} and/or \eqn{upper} and finally sorted.}
 \author{
 Kaspar Rufibach, \email{kaspar.rufibach@gmail.com}, \cr \url{http://www.kasparrufibach.ch} 
 
-Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{www-stat.stanford.edu/~gwalther}}
+Guenther Walther, \email{gwalther@stanford.edu}, \cr \url{https://gwalther.su.domains/}}
 
 \note{This function is called by \code{\link{modeHunting}}, \code{\link{modeHuntingApprox}}, 
       and \code{\link{modeHuntingBlock}}.
       
-      This function was derived from MatLab code provided on Lutz Duembgen's webpage, \cr \url{http://www.staff.unibe.ch/duembgen}.   
+      This function was derived from MatLab code provided by Lutz Duembgen.   
 }
 
 \keyword{htest}
